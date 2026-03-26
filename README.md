@@ -6,7 +6,7 @@ Explorations in quantitative finance focused on how markets behave under real da
 - Market behaviour and price dynamics  
 - Signal vs noise in financial data  
 - Strategy testing and evaluation  
-## Work (processed and to be processed) :
+## Work (Current/Pipelined) :
 - Return distributions, volatility, and correlations
 - Basic factor exploration
 - Small-scale strategy testing
